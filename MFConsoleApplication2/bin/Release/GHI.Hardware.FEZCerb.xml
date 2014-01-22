@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GHI.Hardware.FEZCerb</name>
+    </assembly>
+    <members>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.GPIO_NONE">
+            <summary>A value indicating that no GPIO pin is specified.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA0">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA1">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA2">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA3">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA4">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA5">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA6">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA7">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA8">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA9">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA10">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA11">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA12">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA13">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA14">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PA15">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB0">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB1">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB2">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB3">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB4">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB5">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB6">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB7">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB8">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB9">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB10">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB11">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB12">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB13">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB14">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PB15">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC0">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC1">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC2">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC3">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC4">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC5">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC6">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC7">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC8">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC9">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC10">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC11">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC12">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC13">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC14">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PC15">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD0">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD1">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD2">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD3">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD4">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD5">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD6">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD7">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD8">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD9">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD10">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD11">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD12">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD13">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD14">
+            <summary>Digital I/O.</summary>
+        </member>
+        <member name="F:GHI.Hardware.FEZCerb.Pin.PD15">
+            <summary>Digital I/O.</summary>
+        </member>
+    </members>
+</doc>
