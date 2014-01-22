@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFConsoleApplication2", "MFConsoleApplication2\MFConsoleApplication2.csproj", "{9D92B5F3-E195-4CA8-BE8C-9DAFBCD4D690}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cerbuino-spi2", "MFConsoleApplication2\cerbuino-spi2.csproj", "{9D92B5F3-E195-4CA8-BE8C-9DAFBCD4D690}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
