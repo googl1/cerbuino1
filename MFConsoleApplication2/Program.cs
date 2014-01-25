@@ -19,11 +19,13 @@ namespace CerbuinoSPI
 
           Debug.Print("Sending test pattern");
         
-          for (UInt16 i = 0; i < 100; i++)
+          for (UInt16 i = 0; i < 5; i++)
           {
+              pwm.setPWM(100, duty1, phase1);
+
               // send pwm settings until successfull transmitted
               // even if this usually works the first time
-              while (!pwm.sendPWM(100, duty1, phase1)) ;
+              while (!pwm.startPWM(true)) ;
 
               Debug.Print("phaseshift");
               for (int j = 0; j < 4; j++)
@@ -34,7 +36,10 @@ namespace CerbuinoSPI
                   
 
               Thread.Sleep(2000);
-          }      
+          }
+          while(!pwm.startPWM(false));
+          Thread.Sleep(2000);
+          while (!pwm.startPWM(true)) ;
         }
     }
 }
